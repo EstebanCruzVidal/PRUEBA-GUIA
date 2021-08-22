@@ -5,9 +5,9 @@ ENTRADAS
     Informacion para los analisis
 
 SALIDAS
-    Lista de usuarios
-    Analisis de inversiones o de creditos
-    Graficas para apoyo visual
+    Lista de personas 
+    Analisis de creditos
+    Sin Graficas para apoyo visual
 
 
 Definir usuarioNuevo
